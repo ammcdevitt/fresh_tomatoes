@@ -8,7 +8,7 @@ Get the Code
 2. Clone your repository to work on this project locally on your computer.
 *Note: Make sure you have downloaded and installed the latest version of Python
 
-Use the Command Line
-3. Navigate to the folder on your computer where you saved the project
-4. Type "python" and enter
+Use the Command Line <br />
+3. Navigate to the folder on your computer where you saved the project <br />
+4. Type "python" and enter <br />
 5. Type "python entertainment_center.py"
