@@ -1,4 +1,4 @@
-Server-side code that stores a list of favorite movies, including the movie poster and the movie trailer URL.
+Server-side code that stores a list of movies, including the movie poster and the movie trailer URL.
 
 # How to Run Fresh Tomatoes Project on Your Computer
 
