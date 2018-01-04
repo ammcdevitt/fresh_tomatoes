@@ -2,12 +2,12 @@ Server-side code that stores a list of favorite movies, including the movie post
 
 # How to Run Fresh Tomatoes Project on Your Computer
 
-Get the Code <br />
+__Get the Code__ <br />
 1. Access code by fork the repository and creating your own copy in your GitHub account. <br />
 2. Clone your repository to work on this project locally on your computer. <br />
-*Note: Make sure you have downloaded and installed the latest version of Python
+Note: Make sure you have downloaded and installed the latest version of Python.
 
-Use the Command Line <br />
+__Use the Command Line__ <br />
 3. Navigate to the folder on your computer where you saved the project <br />
-4. Type "python" and enter <br />
-5. Type "python entertainment_center.py"
+4. Type <code>python</code> and enter <br />
+5. Type <code>python entertainment_center.py</code>
