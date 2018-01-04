@@ -10,6 +10,6 @@ Get the Code
 *Note: Make sure you have downloaded and installed the latest version of Python
 
 Use the Command Line
-3) Navigate to the folder on your computer where you saved the project
-4) Type "python" and enter
-5) Type "python entertainment_center.py"
+3) Navigate to the folder on your computer where you saved the project /n
+4) Type "python" and enter /n
+5) Type "python entertainment_center.py" /n
