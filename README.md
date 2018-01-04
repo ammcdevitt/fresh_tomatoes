@@ -8,6 +8,6 @@ __Get the Code__ <br />
 Note: Make sure you have downloaded and installed the latest version of Python.
 
 __Execute the Code__ <br />
-3. In the command line, navigate to the folder on your computer where you saved the project <br />
-4. Type <code>python</code> and enter <br />
-5. Type <code>python entertainment_center.py</code>
+  3. In the command line, navigate to the folder on your computer where you saved the project <br />
+  4. Type <code>python</code> and enter <br />
+  5. Type <code>python entertainment_center.py</code>
