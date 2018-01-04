@@ -12,6 +12,6 @@ __Execute the Code__ <br />
 2. Type <code>python</code> and enter <br />
 3. Type <code>python entertainment_center.py</code>
 
-*See a preview below
+*See a preview below:*
 
 ![screen shot 2018-01-04 at 12 13 06 pm](https://user-images.githubusercontent.com/10386036/34580053-b1a45cb6-f148-11e7-843d-211ff7d2c843.png)
